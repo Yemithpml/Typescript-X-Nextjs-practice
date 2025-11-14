@@ -31,4 +31,4 @@ function userInfo(user: User) : void {
 }
 
 userInfo(user1)
-userInfo({name: "Angel", score: 78})
+userInfo({name: "Angel", score: 78, age: 21})
